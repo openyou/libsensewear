@@ -1,0 +1,6 @@
+Source code pulled from http://bodybugglinux.blogspot.com/2009/07/command-line-extraction-tool.html
+
+Mediafire distro at http://www.mediafire.com/?sharekey=26cf7e726ccc34f061d4646c62b381cbfe370e2ca4df676ac95965eaa7bc68bc
+
+Needs python 2.6 and numpy
+
